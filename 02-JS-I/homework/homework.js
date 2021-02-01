@@ -277,11 +277,4 @@ module.exports = {
   areaDelTriangulo,
   deEuroAdolar,
   esVocal,
-<<<<<<< HEAD
 };
-
-
-
-=======
-};
->>>>>>> f8cf39a436c118699447d520a8911466ea9a407c
